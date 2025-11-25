@@ -48,7 +48,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class1.cs" />
+    <Compile Include="AgentDAO.cs" />
+    <Compile Include="DatabaseConnection.cs" />
+    <Compile Include="ItemDAO.cs" />
+    <Compile Include="OrderDAO.cs" />
+    <Compile Include="OrderDetailDAO.cs" />
+    <Compile Include="UserDAO.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
